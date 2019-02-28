@@ -3,3 +3,5 @@ There once was a college student named Brent. Brent was a good student but not w
 An observer in the shadows saw his predicament.
   "Big mood," he thought, comiserating but not helping. The observer stood for a while, watching Brent struggle with his work, but did nothing.
 He soon decided that this was boring, and he was in the middle of Star Trek: TNG S6E14 "Face of the Enemy" and that he wanted to get back to watching it. But he was editing a text file in vim, so first he needed to google "How to exit vim".
+
+A second observer, with the chiseled features of a movie star, sat in his gold-plated yacht and read the words of the first two individuals on a giant movie screen as a Nepalese maiden fed him grapes imported from the Chablis vineyards. Impatiently brushing away her sensual advances, he reclined in what can only be described as a throne, and dictated to his personal secretary a series of brilliantly descriptive sentences that demonstrated a command of the English language worthy of Oscar Wilde. Then he had to look up how to exit vim.
